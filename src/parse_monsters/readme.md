@@ -44,6 +44,7 @@ And delivers the following data to a SQL insert script to plug into a `Postgresq
 - Name
 - HP
 - AC
+- Magic Resistance
 - Scores
 - Saves
 - Vulnerabilities
